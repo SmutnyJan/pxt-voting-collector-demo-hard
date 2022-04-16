@@ -5,7 +5,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-voting-collector-extension": "github:microbit-cz/pxt-voting-collector-extension#4579f82a354d8211c0287a9bae68370975129cb4"
     },
     "files": [
         "README.md",
